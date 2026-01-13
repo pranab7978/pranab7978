@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Pranab Sahoo<br><br>🎓 Fresher | Aspiring Full Stack Developer<br><br>💼 Actively looking for entry-level / junior software developer roles<br><br>💻 Skilled in Java, Spring Boot, HTML, CSS, JavaScript, React<br><br>🗄️ Database Knowledge: MySQL, Firebase<br><br>🧪 Basic knowledge of Manual & Automation Testing<br><br>📦 Built projects: E-Commerce Website, Portfolio Website, React Dashboards<br><br>🌱 Currently learning: Advanced Spring Boot, DSA, System Design Basics<br><br>⚡ Interested in: Backend Development, Full Stack Projects, Problem Solving<br><br>📍 Open to: Remote / On-site / Hybrid opportunities<br><br>📫 Reach me at:pranab.sahoo135@gmail.com
+👋 Hi, I'm Pranab Prabhanjan Sahoo<br><br>🎓 Fresher | Aspiring Full Stack Developer<br><br>💼 Actively looking for entry-level / junior software developer roles<br><br>💻 Skilled in Java, Spring Boot, HTML, CSS, JavaScript, React<br><br>🗄️ Database Knowledge: MySQL, Firebase<br><br>🧪 Basic knowledge of Manual & Automation Testing<br><br>📦 Built projects: E-Commerce Website, Portfolio Website, React Dashboards<br><br>🌱 Currently learning: Advanced Spring Boot, DSA, System Design Basics<br><br>⚡ Interested in: Backend Development, Full Stack Projects, Problem Solving<br><br>📍 Open to: Remote / On-site / Hybrid opportunities<br><br>📫 Reach me at:pranab.sahoo135@gmail.com
 
 
 ## 🌐 Socials:
